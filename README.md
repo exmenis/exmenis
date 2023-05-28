@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @exmenis
-- 👀 I’m interested in ass ...
-- 🌱 I’m currently learning nothing ...
-- 💞️ I’m looking to collaborate on idk ...
-- 📫 How to reach me idk ...
-
-<!---
-exmenis/exmenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hello im exmenis
+creator of gorilla night fucking
+musician and artist
